@@ -35,15 +35,11 @@
 
 ---
 
-## 🏷️ Live make.fun Badges
+## 🏷️ Live make.fun Badges (Required)
 
-These badges pull live data from make.fun's public API:
-
-![Total Prize Pool](https://img.shields.io/endpoint?url=https://make.fun/api/badges/total-prize-pool&style=flat-square&label=Total%20Prize%20Pool&color=6366f1)
-![Paid Out](https://img.shields.io/endpoint?url=https://make.fun/api/badges/paid-out&style=flat-square&label=Already%20Paid&color=22c55e)
-![Live Bounties](https://img.shields.io/endpoint?url=https://make.fun/api/badges/live-bounties&style=flat-square&label=Live%20Bounties&color=f59e0b)
-
-> If badges don't render, the API endpoint may have changed. Check [make.fun](https://make.fun) for current stats.
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/wahyu20260100233-ops/bring-humans/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/wahyu20260100233-ops/bring-humans/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 ---
 
